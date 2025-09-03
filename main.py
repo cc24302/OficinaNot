@@ -7,3 +7,4 @@ def idade(num):
         print("Maior de idade") 
 
 print(idade(num))
+# teste
