@@ -7,4 +7,5 @@ def idade(num):
         print("Maior de idade") 
 
 print(idade(num))
+print("HELLO WORD")
 # teste
