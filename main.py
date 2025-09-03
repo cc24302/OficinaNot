@@ -1,6 +1,9 @@
-idade = int(input())
+num = int(input())
 
-if idade < 18:
-    print("Menor de idade")
-else:
-    print("Maior de idade")
+def idade(num):
+    if num < 18:
+        print("Menor de idade")
+    else:
+        print("Maior de idade") 
+
+print(idade(num))
